@@ -1,11 +1,4 @@
-# German Learning Resources
+# German Notes
 
-## Table of Contents
-
-For markdown formatting/styling guides, see:
-
-sphinx-book-theme
-pydata-sphinx
-sphinx-design
-
+[Notes from my German course.](https://samueljennings.github.io/german-notes/)
 
