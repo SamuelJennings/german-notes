@@ -1,10 +1,11 @@
-## B2 Notes
+# B2 Notes
 
 ```{toctree}
 :caption: B2 Notes
 
 words
 07_16
+07_21
 07_15
 06_30
 06_24
